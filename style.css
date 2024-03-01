@@ -1,0 +1,28 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: whitesmoke(30, 59, 221, 0.226);
+    text-align: justify;
+
+}
+h2{
+    border-radius: 30px;
+    text-align: center;
+    background-color: rgba(165, 42, 42, 0.747);
+    color: #daa520;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+    width: 55%;
+    border-style:outset inset;
+    border-color:rgb(57, 87, 87);
+    box-shadow: 10px 7px rgba(0, 0, 0, 0.651);
+}
+a{
+    text-decoration: none;
+}
+#img{
+    width: 350px;
+    position: relative;
+    bottom: 550px;
+    left: 950px;
+}
